@@ -1,0 +1,13 @@
+MongoDB Atlas Cluster https://www.mongodb.com/products/platform/atlas-database
+
+Cluster Details
+Cluster Name: Cluster0
+Username: rushanharusha123_db_user
+Password: J61raqDccegFyM1M
+
+Connect to Cluster0
+Add your connection string into your application code:
+mongodb+srv://rushanharusha123_db_user:J61raqDccegFyM1M@cluster0.sm9pcgu.mongodb.net/?appName=Cluster0
+
+Replace <db_password> with the password for the cluster user.
+
