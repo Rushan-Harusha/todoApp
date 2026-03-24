@@ -21,9 +21,9 @@ mongoose
 
 app.set("view engine", "ejs"); //set EJS as the view engine for rendering templates
 
-app.get("/", (req, res) => {
-  //create a GET route for the root URL
-  res.render("todo.ejs"); //render the "todo.ejs" template when root URL accessed
+// prettier-ignore
+app.get("/", (req, res) => {  //create a GET route for the root URL
+  res.render("todo.ejs");     //render the "todo.ejs" template when root URL accessed
 });
 
 // prettier-ignore
